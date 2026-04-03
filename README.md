@@ -1,41 +1,24 @@
-## Hi there 👋
-# Hi, ich bin Sadok 👋
+# Hi, I'm Sadok 👋
 
-Ich studiere Informatik und interessiere mich besonders für Backend-Entwicklung, Systemprogrammierung und Algorithmen.
+Computer Science student with a focus on **backend development**, **system programming**, and **algorithms**.
 
-## 🔧 Technologien
+## 🔧 Tech Stack
 
-* Java
-* Kotlin
-* C
-* Spring Boot
-* React
-* Docker
-* Git
+Java · Kotlin · C · Spring Boot · React · Docker · Git
 
-## 💻 Projekte
+## 💻 Projects
 
-🔹 **URL Shortening Service**
-Backend-Service mit Java und Spring Boot zum Erstellen und Weiterleiten von Kurz-URLs.
+* **Book Search App** – Full-stack app with fuzzy search & Docker
+* **URL Shortener** – Backend service with Spring Boot
+* **Socket Server (C)** – Multi-client server with Pub/Sub
+* **Movie Finder** – React app using TMDB API
 
-🔹 **Socket Programming Server (C)**
-Mehrbenutzer-Server mit Socket-Programmierung in C.
+## 🎯 Interests
 
-🔹 **Full-Stack Webanwendung**
-Webanwendung mit Frontend und Backend-Architektur.
+Backend systems · Distributed systems · Networking · Software architecture
 
-🔹 **Movie Finder (React)**
-React-App zur Suche von Filmen über die TMDB-API.
+## 📫 Contact
 
-## 🎯 Interessen
+[LinkedIn](https://www.linkedin.com/in/sadok-srioui/) · [GitHub](https://github.com/sodoksrioui09)
 
-* Backend Systeme
-* Verteilte Systeme
-* Netzwerkprogrammierung
-* Softwarearchitektur
-
-## 📫 Kontakt
-
-LinkedIn: (https://www.linkedin.com/in/sadok-srioui/)
-GitHub: https://github.com/sodoksrioui09
 
