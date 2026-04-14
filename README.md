@@ -4,10 +4,11 @@ Computer Science student with a focus on **backend development**, **system progr
 
 ## 🔧 Tech Stack
 
-Java · Kotlin · C · Spring Boot · React · Docker · Git
+Java · Go · Kotlin · C · Spring Boot · React · Docker · Git
 
 ## 💻 Projects
 
+* **Cinema-Booking-System-MVP** – A backend-focused cinema booking system built in Go
 * **Book Search App** – Full-stack app with fuzzy search & Docker
 * **URL Shortener** – Backend service with Spring Boot
 * **Socket Server (C)** – Multi-client server with Pub/Sub
